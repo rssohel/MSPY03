@@ -1,0 +1,6 @@
+{
+  "name": "mSpy - Parental Control & Monitoring Dashboard",
+  "description": "An interactive, full-featured mSpy parental control and phone monitoring dashboard with an embedded target device emulator for real-time testing, keylogging, tracking, app blocking, and Gemini-powered smart safety analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
